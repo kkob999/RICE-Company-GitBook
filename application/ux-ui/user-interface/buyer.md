@@ -4,9 +4,18 @@
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/Dashboard.png" alt="" width="206"><figcaption></figcaption></figure>
+<p>เมื่่อเข้า Application มาแล้วจะพบกับหน้า Dashboard เป็นอันดับแรก โดยในหน้านี้จะแสดงทั้งหมด 6 section ได้แก่</p>
 
- 
+1. Search Section
+
+   User สามารถค้นหาสินค้า และร้านค้าได้
+2. Cart Section
+3. Chat Section
+4. Suggested Product
+5. Product List
+6. User Dashboard
+
+<figure><img src="../../../.gitbook/assets/Dashboard.png" alt="" width="206"><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/Dashboard2.png" alt="" width="206"><figcaption></figcaption></figure>
 
@@ -20,23 +29,15 @@
 
 <figure><img src="../../../.gitbook/assets/Register.png" alt=""><figcaption></figcaption></figure>
 
- 
-
 <figure><img src="../../../.gitbook/assets/Register - nofill.svg" alt=""><figcaption></figcaption></figure>
 
- 
-
 <figure><img src="../../../.gitbook/assets/Register - fillPassCorect.svg" alt=""><figcaption></figcaption></figure>
-
- 
 
 <figure><img src="../../../.gitbook/assets/Register - AddressFill.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
-
-
-***
+---
 
 ### Sign In
 
@@ -44,19 +45,13 @@
 
 <figure><img src="../../../.gitbook/assets/Login.png" alt=""><figcaption></figcaption></figure>
 
- 
-
 <figure><img src="../../../.gitbook/assets/Login - passSecret.svg" alt=""><figcaption></figcaption></figure>
-
- 
 
 <figure><img src="../../../.gitbook/assets/Login - wrongFill.svg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <figure><img src="../../../.gitbook/assets/Dashboard.png" alt="" width="206"><figcaption></figcaption></figure>
-
-
 
 * Coupon
 
@@ -70,15 +65,9 @@ Search with Text
 
 <figure><img src="../../../.gitbook/assets/SearchWithText-1.png" alt=""><figcaption></figcaption></figure>
 
- 
-
 <figure><img src="../../../.gitbook/assets/SearchResult-product.png" alt=""><figcaption></figcaption></figure>
 
- 
-
 <figure><img src="../../../.gitbook/assets/SearchResult-shop.png" alt=""><figcaption></figcaption></figure>
-
- 
 
 <figure><img src="../../../.gitbook/assets/Search-withFilter-New.png" alt=""><figcaption></figcaption></figure>
 
@@ -90,19 +79,11 @@ Search with Text
 
 <figure><img src="../../../.gitbook/assets/SearchWithPhoto(ML).png" alt=""><figcaption></figcaption></figure>
 
- 
-
 <figure><img src="../../../.gitbook/assets/SearchWithPhoto(ML)-1.png" alt=""><figcaption></figcaption></figure>
-
- 
 
 <figure><img src="../../../.gitbook/assets/SearchWithPhoto(ML)-2 (1).png" alt=""><figcaption></figcaption></figure>
 
- 
-
 <figure><img src="../../../.gitbook/assets/SearchResult-product (1).png" alt=""><figcaption></figcaption></figure>
-
- 
 
 <figure><img src="../../../.gitbook/assets/SearchResult-shop (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -114,8 +95,6 @@ Search with Text
 
 <figure><img src="../../../.gitbook/assets/ShopPage.png" alt="" width="207"><figcaption></figcaption></figure>
 
- 
-
 <figure><img src="../../../.gitbook/assets/ShopPage2.png" alt="" width="206"><figcaption></figcaption></figure>
 
 </div>
@@ -126,11 +105,7 @@ Search with Text
 
 <figure><img src="../../../.gitbook/assets/report dashbord.png" alt=""><figcaption></figcaption></figure>
 
- 
-
 <figure><img src="../../../.gitbook/assets/report-topic.png" alt=""><figcaption></figcaption></figure>
-
- 
 
 <figure><img src="../../../.gitbook/assets/report-topic-1.png" alt=""><figcaption></figcaption></figure>
 
@@ -141,8 +116,6 @@ Search with Text
 <div>
 
 <figure><img src="../../../.gitbook/assets/Prod Detail.png" alt="" width="206"><figcaption></figcaption></figure>
-
- 
 
 <figure><img src="../../../.gitbook/assets/Prod Detail2.png" alt="" width="206"><figcaption></figcaption></figure>
 
@@ -160,8 +133,6 @@ Search with Text
 
 <figure><img src="../../../.gitbook/assets/Payment-not success.png" alt="" width="206"><figcaption></figcaption></figure>
 
- 
-
 <figure><img src="../../../.gitbook/assets/Payment-success.png" alt="" width="206"><figcaption></figcaption></figure>
 
 </div>
@@ -172,11 +143,7 @@ Search with Text
 
 <figure><img src="../../../.gitbook/assets/waiting for payment.png" alt=""><figcaption></figcaption></figure>
 
- 
-
 <figure><img src="../../../.gitbook/assets/on-going.png" alt=""><figcaption></figcaption></figure>
-
- 
 
 <figure><img src="../../../.gitbook/assets/delivered1.png" alt=""><figcaption></figcaption></figure>
 
@@ -188,8 +155,6 @@ Search with Text
 
 <figure><img src="../../../.gitbook/assets/add comment1.png" alt="" width="206"><figcaption></figcaption></figure>
 
- 
-
 <figure><img src="../../../.gitbook/assets/add comment2.png" alt="" width="206"><figcaption></figcaption></figure>
 
 </div>
@@ -197,8 +162,6 @@ Search with Text
 <div>
 
 <figure><img src="../../../.gitbook/assets/add comment3.png" alt="" width="206"><figcaption></figcaption></figure>
-
- 
 
 <figure><img src="../../../.gitbook/assets/add comment4.png" alt="" width="256"><figcaption></figcaption></figure>
 
@@ -232,11 +195,7 @@ Search with Text
 
 <figure><img src="../../../.gitbook/assets/ChatwtihAdmin1.png" alt=""><figcaption></figcaption></figure>
 
- 
-
 <figure><img src="../../../.gitbook/assets/ChatwtihAdmin2.png" alt=""><figcaption></figcaption></figure>
-
- 
 
 <figure><img src="../../../.gitbook/assets/ChatwtihAdmin3.png" alt=""><figcaption></figcaption></figure>
 
@@ -252,17 +211,10 @@ Search with Text
 
 <figure><img src="../../../.gitbook/assets/NewChatBoard (1).png" alt=""><figcaption></figcaption></figure>
 
- 
-
 <figure><img src="../../../.gitbook/assets/Chat1.png" alt=""><figcaption></figcaption></figure>
 
- 
-
 <figure><img src="../../../.gitbook/assets/Chat2.png" alt=""><figcaption></figcaption></figure>
-
- 
 
 <figure><img src="../../../.gitbook/assets/Chat3.png" alt=""><figcaption></figcaption></figure>
 
 </div>
-
