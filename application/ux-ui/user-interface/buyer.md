@@ -10,6 +10,8 @@
 
    User สามารถค้นหาสินค้า และร้านค้าได้
 2. Cart Section
+
+   ในหน้า Dashboard ผู้ใช้สามารถที่จะเห็นสินค้าที่ถูกเลือกลงตะกร้าได้
 3. Chat Section
 4. Suggested Product
 5. Product List
